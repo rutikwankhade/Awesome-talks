@@ -1,4 +1,4 @@
-# Awesome-talks
+# :label:	 Awesome-talks
 Here is a list of my favourite talks by some awesome people that will make you feel awesome. These include talks on different technologies, coding, programming, productivity, tedtalks and many more. Every talk is interesting, inspiring and worth watching.
 
 ### Learning
