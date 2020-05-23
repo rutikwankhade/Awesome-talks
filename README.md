@@ -4,6 +4,8 @@ Here is a list of my favourite talks by some awesome people that will make you f
 ### Learning
 * [Learning how to learn | Barbara Oakley | TEDxOaklandUniversity](https://youtu.be/O96fE1E-rf8)
 * [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://youtu.be/5MgBikgcWnY)
+* [Scott Tolinski: Fast & Furious Learning](https://youtu.be/xK3BhwDRuL8)
+* [WDS 2019 Main Stage Keynote - Scott Young on the Best Way to Learn Anything](https://youtu.be/J2JGiJNUsD4)
 
 ### Coding
 * [Don't Just Learn To Code, Learn To Create | Justin Richards | ](https://youtu.be/6rxWc-TNIJI)
@@ -13,6 +15,7 @@ Here is a list of my favourite talks by some awesome people that will make you f
 * [The future we're building -- and boring | Elon Musk](https://youtu.be/zIwLWfaAg-8)
 * [The thrilling potential of SixthSense technology | Pranav Mistry](https://youtu.be/YrtANPtnhyg)
 * [Preethi Kasireddy - We All Started Somewhere](https://youtu.be/maykR0aVsj8)
+* [what all should I learn in tech? BY Tanay Pratap](https://youtu.be/bjrSTyI8-dE)
 
 ### Productivity
 * [Enter the cult of extreme productivity | Mark Adams | TEDxHSG](https://youtu.be/2paoNvG5Nmo)
